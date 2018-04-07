@@ -1,0 +1,6 @@
+.NavBar {
+	display: grid;
+    grid-template-columns: 50px 50px minmax(600px, 3fr) 50px 50px 50px 80px;
+	text-align: left;
+	font-size: 8
+}
